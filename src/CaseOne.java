@@ -1,5 +1,8 @@
 import numericMethods.*;
 import customExceptions.NotFlashable;
+
+import java.util.Arrays;
+
 import customExceptions.BadFunction; 
 
 /**
